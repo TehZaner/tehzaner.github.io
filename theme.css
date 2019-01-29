@@ -1,0 +1,21 @@
+header {
+  height: 100vh;
+  background-image: url('images/bgPeru.jpg');
+  background-size: cover !important;
+}
+
+header > .container {
+  height: 75%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: white;
+}
+
+.git-icon {
+  font-size: 150px !important;
+  color: white !important;
+}
